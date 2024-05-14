@@ -1,2 +1,3 @@
 # hello-world
 no template
+In this course , In terms of web design, my goal is to produce aesthetically pleasing and intuitive user interfaces that successfully convey the website's functionality or core message. UI/UX design best practices are something I try to implement into my work, making sure the site is optimised for performance, responsive across devices, and easily navigable. I also try to keep up with new developments in design and technology so that I can provide cutting edge and contemporary web experiences.
